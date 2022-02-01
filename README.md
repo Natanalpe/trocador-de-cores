@@ -1,2 +1,2 @@
 # trocador-de-cores
- projeto React [1/40]
+ exercício React [1/40]
