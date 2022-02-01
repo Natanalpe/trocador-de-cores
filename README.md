@@ -1,2 +1,2 @@
 # trocador-de-cores
- projeto Javascript [1/40]
+ projeto React [1/40]
